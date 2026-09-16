@@ -1,2 +1,2 @@
-## [gallery slides](https://nadia902.github.io/Gallery_slides/)
+## gallery slides
 Простой сайт со слайдами, созданный при помощи CSS, HTML и JavaScript
